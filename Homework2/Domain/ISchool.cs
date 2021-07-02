@@ -8,7 +8,7 @@ namespace Homework2
 {
     public interface ISchool
     {
-        void AddPerson(string name, int point);
+        void AddPerson(string name);
 
         void SetPoint(string name, int point);
 
